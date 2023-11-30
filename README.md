@@ -1,10 +1,6 @@
 # Proyecto de predicción de ventas y clasificación de productos en diferentes clúster, según diferentes características
 
 
-<p align="center">
-   <img align="center" width="200" src="https://raw.githubusercontent.com/Sergiochueco-94/Prediction_and_Clustering_ML_models/main/img/DsMarket.PNG" />
-</p>
-
  <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
 </p>
