@@ -9,9 +9,7 @@
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
 </p>
 
-version https://git-lfs.github.com/spec/v1
-oid sha256:7faffe61a084669fa5295aaca8150a5e89df0cc0acb9711bbd7cf2e0ddf7b592
-size 5005
+
 
 ## Tecnologías utilizadas:
 
