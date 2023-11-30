@@ -2,7 +2,7 @@
 
 
 <p align="center">
-   <img align="center" width="200" src="https://raw.githubusercontent.com/Sergiochueco-94/DSmarket_cluster_y_prediction/main/img/DsMarket.PNG" />
+   <img align="center" width="200" src="https://raw.githubusercontent.com/Sergiochueco-94/Prediction_and_Clustering_ML_models/main/img/DsMarket.PNG" />
 </p>
 
  <p align="left">
