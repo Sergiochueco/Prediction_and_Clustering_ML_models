@@ -1,0 +1,6 @@
+*CSV/ filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*JSON/ filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
+*Power[[:space:]]BI/ filter=lfs diff=lfs merge=lfs -text
+*.pbix filter=lfs diff=lfs merge=lfs -text
