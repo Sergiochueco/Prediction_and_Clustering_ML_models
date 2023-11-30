@@ -68,8 +68,6 @@ Tenemos diversas carpetas:
 
  - **models**: contiene archivos .pkl que contienen los modelos generados para poder ponerlos en producción.
 
- - **Power BI**: contiene un archivo .pbix con la presentación del análisis de insights para el negocio más la presentación de los modelos de Machine Learnign realizados.
-
  - **src**:  contiene 4 archivos .ipynb. Clustering.ipynb como el propio nombre indica es nuestro notebook donde hemos entrenado el modelo de clustering. Por otro lado, el Predict_ventas.ipynb es nuestro nuestro notebook donde hemos entrenado el modelo de predicción de ventas para el mes siguiente.
 
    También tenemos dos archivos más, uno de EDA.ipynb donde realizamos un pequeño EDA de nuestros datos para decidir como entrenar después a nuestros modelos y ver también como se distribuye nuestros datos sacando insights para el negocio.
@@ -83,7 +81,6 @@ Tenemos diversas carpetas:
 - [x] Extracción, limpieza, transformación de datos
 - [x] Archivos a formato JSON
 - [x] Entrenamiento de modelo de Machine Learning (Predicción de ventas y Clustering de productos)
-- [x] Power BI para mostrar resultados a negocio
 - [ ] Dockerfile
-- [ ] Puesta en producción
 - [ ] Uso de Airflow, MLflow
+- [ ] Puesta en producción
